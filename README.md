@@ -15,11 +15,11 @@ https://www.youtube.com/watch?v=1A5ChNEf5F4
 This mod features the following:
 
 * Adds Tricky (Mask) as a usable Dad character.
+* Adds Tricky (Unmasked) as a usable Dad character.
 * Adds Improbable Outset as a song to Free Play (currently uses the default stage).
 
 This mod does not currently include:
 
-* The Tricky (Unmasked) character.
 * The Tricky (Hellclown) character.
 * The Tricky (Expurgation) character.
 * The song Madness.
